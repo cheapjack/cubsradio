@@ -3,6 +3,6 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=zz-be-cAqws
 " target="_blank"><img src="http://img.youtube.com/vi/zz-be-cAqws/0.jpg" 
-alt="cubsradio demo" width="240" height="180" border="10" /></a>
+alt="cubsradio demo" width="429" height="315" border="10" /></a>
 
 Arduino sketch and LED flasher design used to demo morse code broadcast over AM/FM, then learn SOS and names for Garston, Liverpool Beavers group 
